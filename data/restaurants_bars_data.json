@@ -1,0 +1,166 @@
+[
+    {
+        "municipality": "Habana Vieja",
+        "name": "La Bodeguita del Medio",
+        "specialty": "Cuban Cuisine",
+        "hours": "12:00-23:00",
+        "type": "Bar",
+        "menu": [
+            {"dish": "Mojito", "price":1.25 },
+            {"dish": "Cuba Libre", "price": 1.00},
+            {"dish": "Piña Colada", "price": 1.50},
+
+            {"dish": "Ropa Vieja", "price": 4.00},
+            {"dish": "Pargo Frito", "price": 6.00},
+            {"dish": "Langosta", "price": 8.00},
+            {"dish": "Tostones Rellenos", "price": 3.00},
+            {"dish": "Croquetas", "price": 1.00}
+
+        ]
+    },
+    {
+        "municipality": "Habana Vieja",
+        "name": "El Floridita",
+        "specialty": "Cocktails",
+        "hours": "11:00-23:30",
+        "type": "Bar",
+        "menu": [
+            {"dish": "Mojito", "price": 1.00},
+            {"dish": "Cuba Libre", "price": 1.25},
+            {"dish": "Piña Colada", "price": 2.00},
+
+            {"dish": "Ropa Vieja", "price": 5.00},
+            {"dish": "Pargo Frito", "price": 5.00},
+            {"dish": "Langosta", "price": 9.00},
+            {"dish": "Tostones Rellenos", "price": 2.00},
+            {"dish": "Croquetas", "price": 1.50}
+        ]
+    },
+    {
+        "municipality": "Habana Vieja",
+        "name": "La Guarida",
+        "specialty": "Cuban Fusion",
+        "hours": "13:00-22:00",
+        "type": "Restaurant",
+        "menu": [
+            {"dish": "Mojito", "price": 1.50},
+            {"dish": "Cuba Libre", "price": 1.50},
+            {"dish": "Piña Colada", "price": 1.00}, 
+
+            {"dish": "Ropa Vieja", "price": 6.00},
+            {"dish": "Pargo Frito", "price": 6.00},
+            {"dish": "Langosta", "price": 10.00},
+            {"dish": "Tostones Rellenos", "price": 2.50},
+            {"dish": "Croquetas", "price": 1.50}
+        ]
+    },
+
+    {
+        "municipality": "Plaza de la Revolución",
+        "name": "La Zorra y El Cuervo",
+        "specialty": "Jazz Bar",
+        "hours": "19:00-02:00",
+        "type": "Bar",
+        "menu": [
+            {"dish": "Mojito", "price": 1.25},
+            {"dish": "Cuba Libre", "price": 1.25},
+            {"dish": "Piña Colada", "price": 1.25},
+
+            {"dish": "Pizza", "price": 5.00},
+            {"dish": "Spaguetti", "price": 4.00},
+            {"dish": "Papas Fritas", "price": 1.50},
+            {"dish": "Tostones Rellenos", "price": 2.00},
+            {"dish": "Croquetas", "price": 1.00}
+        ]
+    },
+    {
+        "municipality": "Plaza de la Revolución",
+        "name": "El Gato Tuerto",
+        "specialty": "Live Music",
+        "hours": "20:00-03:00",
+        "type": "Bar",
+        "menu": [
+            {"dish": "Mojito", "price": 1.50},
+            {"dish": "Cuba Libre", "price": 1.50},
+            {"dish": "Piña Colada", "price": 1.50},
+
+            {"dish": "Pizza", "price": 6.00},
+            {"dish": "Spaguetti", "price": 5.00},
+            {"dish": "Papas Fritas", "price": 2.00},
+            {"dish": "Tostones Rellenos", "price": 3.00},
+            {"dish": "Croquetas", "price": 2.00}
+        ]
+    },
+    {
+        "municipality": "Plaza de la Revolución",
+        "name": "La Torre",
+        "specialty": "International Cuisine",
+        "hours": "10:00-23:00",
+        "type": "Restaurant",
+        "menu": [
+            {"dish": "Mojito", "price": 1.50},
+            {"dish": "Cuba Libre", "price": 2.00},
+            {"dish": "Piña Colada", "price": 1.50}, 
+
+            {"dish": "Ropa Vieja", "price": 3.50},
+            {"dish": "Pargo Frito", "price": 5.00},
+            {"dish": "Langosta", "price": 6.00},
+            {"dish": "Tostones Rellenos", "price": 1.50},
+            {"dish": "Croquetas", "price": 1.00}
+        ]
+    },
+    {
+        "municipality": "Playa",
+        "name": "El Delfín Azul",
+        "specialty": "Seafood & Drinks",
+        "hours": "11:00-23:00",
+        "type": "Restaurant & Bar",
+        "menu": [
+            {"dish": "Mojito", "price": 2.50},
+            {"dish": "Cuba Libre", "price": 2.50},
+            {"dish": "Piña Colada", "price": 3.00},
+ 
+            {"dish": "Pargo Frito", "price": 12.00},
+            {"dish": "Langosta", "price": 15.00},
+            {"dish": "Camarones al Ajillo", "price": 10.00},
+            {"dish": "Croquetas", "price": 3.00},
+            {"dish": "Tostones Rellenos", "price": 4.50}
+        ]
+    },
+    {
+        "municipality": "Playa",
+        "name": "La Ola",
+        "specialty": "Cocktails & Seafood",
+        "hours": "12:00-00:00",
+        "type": "Restaurant & Bar",
+        "menu": [
+            {"dish": "Mojito", "price": 3.00},
+            {"dish": "Cuba Libre", "price": 3.00},
+            {"dish": "Piña Colada", "price": 3.00},
+
+            {"dish": "Pizza", "price": 8.00},
+            {"dish": "Spaguetti", "price": 10.00},
+            {"dish": "Papas Fritas", "price": 3.00},
+            {"dish": "Tostones Rellenos", "price": 6.00},
+            {"dish": "Croquetas", "price": 2.50}
+        ]
+    },
+    {
+        "municipality": "Playa",
+        "name": "Barca y Vela",
+        "specialty": "Fish & Cocktails",
+        "hours": "12:00-23:30",
+        "type": "Restaurant & Bar",
+        "menu": [
+            {"dish": "Mojito", "price": 2.50},
+            {"dish": "Cuba Libre", "price": 2.50},
+            {"dish": "Piña Colada", "price": 2.50},
+ 
+            {"dish": "Pargo Frito", "price": 15.00},
+            {"dish": "Langosta", "price": 20.00},
+            {"dish": "Camarones al Ajillo", "price": 12.00},
+            {"dish": "Tostones Rellenos", "price": 4.00},
+            {"dish": "Croquetas", "price": 3.00}
+        ]
+    }
+]
