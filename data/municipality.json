@@ -12,12 +12,12 @@
     "ch": {
         "name": "Centro Habana",
         "population": null,
-        "num_restaurants": 3
+        "num_restaurants": 0
     },
     "ce": {
         "name": "Cerro",
         "population": null,
-        "num_restaurants": 0
+        "num_restaurants": 4
     },
     "co": {
         "name": "Cotorro",
@@ -42,7 +42,7 @@
     "hv": {
         "name": "Habana Vieja",
         "population": null,
-        "num_restaurants": 3
+        "num_restaurants": 0
     },
     "ll": {
         "name": "La Lisa",
